@@ -1,0 +1,20 @@
+
+.jumbotron {
+    background: grey;
+
+}
+.jumbotron h1 {
+    color: white;
+}
+.card-text {
+    text-align: center;
+    padding: 5px 0px;
+    background: rgb(186, 231, 245);
+}
+
+.row a {
+    color: darkgray;
+}
+.row a:hover {
+    color: rgb(65, 62, 62);
+}
